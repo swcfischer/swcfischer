@@ -11,7 +11,7 @@
 
 [avidlanguagelearning.com](https://avidlanguagelearning.com)
 
-## ServyDoor (Alternative Spelling of Machine Server in Spanish)
+## ServyDoor (Alternative Spelling of Server in Spanish)
 
 **Description:** Google Book-Reading Platform 
 
