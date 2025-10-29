@@ -23,15 +23,6 @@
 [servydoor.com](https://servydoor.com)
 
 
-## Just Am (Climate) Organization
-
-**Description:** Certificate of Basic Indoor Habits
-
-**Price:** $3,000,000
-
-[justam.org](https://justam.org)
-
-
 ## Instructions
 
 - Click on the email links to open your default email client with pre-filled subject and message
