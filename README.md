@@ -1,9 +1,8 @@
 # Links
 
-- [Dummy Link One](https://example.com/one) — Lorem ipsum dolor sit amet.
-- [Dummy Link Two](https://example.com/two) — Consectetur adipiscing elit.
-- [Dummy Link Three](https://example.com/three) — Sed do eiusmod tempor.
-- [Dummy Link Four](https://example.com/four) — Ut labore et dolore magna.
-- [Dummy Link Five](https://example.com/five) — Duis aute irure dolor in reprehenderit.
+- [Avid LanguageLearning](https://avidlanguagelearning.com) — An app that uses YouTube videos and their subtitles for better comprehension.
+- [Servy Door](https://servydoor.com) — An app to help you find and stick with books.
+- [LinkedIn](https://www.linkedin.com/in/steven-william-fischer/) — My professional presence
+
 
 
