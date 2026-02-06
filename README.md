@@ -1,5 +1,6 @@
 # Art for sale
 - [Portrait of a Woman](https://www.paypal.com/ncp/payment/ZJVUHT7F79ZTE)
+- [Do You See What I See](https://www.paypal.com/ncp/payment/LZDLEZ4U2L3QL)
 
 # Links
 - [Avid Language Learning](https://avidlanguagelearning.com) — YouTube videos with interactive subtitles for AI definitions.
