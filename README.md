@@ -1,7 +1,3 @@
-# Art for sale
-- [Portrait of a Woman](https://www.paypal.com/ncp/payment/9L5R22TYEYSUG)
-- [Do You See What I See](https://www.paypal.com/ncp/payment/LZDLEZ4U2L3QL)
-
 # Links
 - [Avid Language Learning](https://avidlanguagelearning.com) — YouTube videos with interactive subtitles for AI definitions.
 - [Servy Door](https://servydoor.com) — helps you find and stick with books, with AI definitions.
