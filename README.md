@@ -1,3 +1,3 @@
 # Links
-- [Avid Reading](https://avidreading.com) — Wordpress Blog.
+- [YouTube Langage-Learning](https://www.avidlanguagelearning.com/) — Avid Language Learning.
 - [LinkedIn](https://www.linkedin.com/in/steven-william-fischer/) — My profile.
