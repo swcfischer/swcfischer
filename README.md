@@ -1,4 +1,4 @@
-# Steven Fischer
+# 
 - [LinkedIn](https://www.linkedin.com/in/steven-william-fischer/)
 ## Apps
 - [YouTube Language-Learning](https://www.avidlanguagelearning.com/) 
