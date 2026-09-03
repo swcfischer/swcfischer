@@ -1,7 +1,7 @@
 # Links
-- [YouTube Language-Learning](https://www.avidlanguagelearning.com/) — Avid Language Learning.
-- [English-Teaching (DB gone)](https://asia-teach.netlify.app/) — English-Teaching Abroad.
-- [Book-Reading (DB gone)](https://www.servydoor.com/) — Reading App.
-- [Book-Search](https://readwritesend.netlify.app/) — Book Search.
+- [YouTube Language-Learning](https://www.avidlanguagelearning.com/) 
+- [English-Teaching (DB gone)](https://asia-teach.netlify.app/) 
+- [Book-Reading (DB gone)](https://www.servydoor.com/) 
+- [Book-Search](https://readwritesend.netlify.app/) 
 
-- [LinkedIn](https://www.linkedin.com/in/steven-william-fischer/) — My profile.
+- [LinkedIn](https://www.linkedin.com/in/steven-william-fischer/) 
